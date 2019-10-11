@@ -1,3 +1,3 @@
-java -jar .\revision-1.0.jar
+java -jar .\version-tool-1.0.jar
 @echo off
 pause
